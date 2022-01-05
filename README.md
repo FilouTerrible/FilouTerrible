@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @FilouTerrible
+- 👀 I’m interested in Data engineering and software development
